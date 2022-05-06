@@ -5,10 +5,14 @@ I'm Lazare Fortune, a junior backend developer based in Paris, France.
 ### Social 📱
 ---
 You can find me on the following social media plateforms or send me an email :
-- 👔 [LinkedIn](https://www.linkedin.com/in/lazare-fortune/)
-- 🌐 [Twitter](https://twitter.com/lazarefortune)
-- 📧 [lazarefortune@gmail.com](lazarefortune@gmail.com)
+- :technologist: [LinkedIn](https://www.linkedin.com/in/lazare-fortune/)
+- :earth_africa: [Twitter](https://twitter.com/lazarefortune)
+- :envelope: [lazarefortune@gmail.com](lazarefortune@gmail.com)
 
+### Note
+---
+- 🔭 I’m currently working on Node Js, Next Js and Symfony
+- 👯 I’m looking to collaborate on Node Js
 
 <!--
 **lazarefortune/lazarefortune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
