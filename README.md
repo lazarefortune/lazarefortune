@@ -5,6 +5,7 @@ I'm Lazare Fortune, a junior backend developer based in Paris, France.
 ### Social 📱
 ---
 You can find me on the following social media plateforms or send me an email :
+- :computer: [Portfolio](https://www.lazarefortune.com)
 - :technologist: [LinkedIn](https://www.linkedin.com/in/lazare-fortune/)
 - :earth_africa: [Twitter](https://twitter.com/lazarefortune)
 - :envelope: [lazarefortune@gmail.com](lazarefortune@gmail.com)
