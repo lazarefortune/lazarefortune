@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=lazarefortune)
+
 ## Hi I'm Lazare Fortune 👋
 
 I'm Lazare Fortune, a junior backend developer based in Paris, France.
