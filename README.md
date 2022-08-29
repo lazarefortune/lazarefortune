@@ -34,3 +34,14 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lazarefortune)](https://github.com/ryo-ma/github-profile-trophy)
+
+### GitHub Analytics
+
+<p align='center'>
+  <a href="https://github.com/lazarefortune">
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lazarefortune&show_icons=true&theme=dracula" />
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lazarefortune&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=David-Moisan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
