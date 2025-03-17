@@ -1,19 +1,29 @@
-![Visitors](https://komarev.com/ghpvc/?username=lazarefortune)
+![Visiteurs](https://komarev.com/ghpvc/?username=lazarefortune)
 
-# 👋 Hi, I'm Lazare Fortune
+# 👋 Salut, c’est Lazare Fortune
 
-A passionate PHP developer based in Paris, France, with a keen interest in backend technologies. I'm always eager to engage in new projects and technical challenges.
+Développeur web full stack passionné, basé en région parisienne, toujours en quête de nouveaux défis techniques et de collaborations enrichissantes.
 
-### 🌐 Social Media
-Connect with me through various platforms or shoot me an email:
-- 🎨 [Portfolio](https://www.lazarefortune.com)
-- 🎥 [YouTube](https://www.youtube.com/channel/UCITKwfT7qVXjdHHu84Atodw)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lazare-fortune/)
-- 🐦 [Twitter](https://twitter.com/lazarefortune)
-- 📧 Email: [lazarefortune@gmail.com](mailto:lazarefortune@gmail.com)
+## 🌐 Mes réseaux et contacts
+- **Portfolio** : [lazarefortune.com](https://www.lazarefortune.com)  
+  Découvre mes projets, mes articles et mes vidéos.
+- **YouTube** : [Code Discovery](https://www.youtube.com/channel/UCITKwfT7qVXjdHHu84Atodw)  
+  Astuces, tutoriels et bonnes pratiques de dev.
+- **LinkedIn** : [Lazare Fortune](https://www.linkedin.com/in/lazarefortune/)  
+  Échangeons sur nos expériences, nos inspirations et nos projets.
+- **Twitter** : [@lazarefortune](https://twitter.com/lazarefortune)  
+  Micro-updates et partages de ressources en développement.
+- **Email** : [lazarefortune@gmail.com](mailto:lazarefortune@gmail.com)  
+  Pour tout contact direct.
 
-### 💡 About Me
-- 🔭 Currently working extensively with PHP, exploring frameworks like Symfony to create robust and scalable applications.
-- 🌱 Constantly learning and adapting to new technologies to enhance my development skills.
-- 👯 Looking to collaborate on innovative projects, particularly those aimed at solving real-world problems.
-- 🎯 Goal: To contribute to meaningful projects, learn and adopt new technologies, and share knowledge within the community.
+## 💡 À propos de moi
+- 🔭 **Back-end :** Je travaille majoritairement avec PHP et Symfony pour créer des applis robustes et maintenables.
+- 🌱 **Apprentissage en continu :** Je m’intéresse à d’autres langages et frameworks pour élargir mes compétences.  
+- 👯 **Collaboration :** Toujours prêt à contribuer ou à initier de nouveaux projets dont l’ambition est de résoudre des problèmes concrets.  
+- 🎯 **Objectif :** Allier passion, curiosité et créativité pour développer des solutions utiles au plus grand nombre.
+
+## 💭 Mon opinion sur le développement
+Je pense que le développement est avant tout une histoire de **curiosité** et de **partage**. Chacun apporte son expérience et sa vision ; c’est cette diversité qui nourrit l’innovation. Qu’on soit débutant ou confirmé, on a tous intérêt à apprendre les uns des autres, à échanger des idées et à faire preuve de bienveillance. Selon moi, cette démarche collaborative est le moteur principal de la progression dans le monde du dev.
+
+**N’hésite pas à me contacter ou à contribuer à mes projets.**  
+Au plaisir d’échanger avec toi sur GitHub ou ailleurs !
