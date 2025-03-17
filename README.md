@@ -11,7 +11,7 @@ Développeur web full stack passionné, basé en région parisienne, toujours en
   Astuces, tutoriels et bonnes pratiques de dev.
 - **LinkedIn** : [Lazare Fortune](https://www.linkedin.com/in/lazarefortune/)  
   Échangeons sur nos expériences, nos inspirations et nos projets.
-- **Twitter** : [@lazarefortune](https://twitter.com/lazarefortune)  
+- **Twitter** : [@lazarefortune](https://x.com/lazarefortune)  
   Micro-updates et partages de ressources en développement.
 - **Email** : [lazarefortune@gmail.com](mailto:lazarefortune@gmail.com)  
   Pour tout contact direct.
