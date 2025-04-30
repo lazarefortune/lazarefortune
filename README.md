@@ -7,7 +7,7 @@ Développeur web full stack passionné, basé en région parisienne, toujours en
 ## 🌐 Mes réseaux et contacts
 - **Portfolio** : [lazarefortune.com](https://www.lazarefortune.com)  
   Découvre mes projets, mes articles et mes vidéos.
-- **YouTube** : [Code Discovery](https://www.youtube.com/channel/UCITKwfT7qVXjdHHu84Atodw)  
+- **YouTube** : [Lazare Fortune](https://www.youtube.com/@lazarefortune)  
   Astuces, tutoriels et bonnes pratiques de dev.
 - **LinkedIn** : [Lazare Fortune](https://www.linkedin.com/in/lazarefortune/)  
   Échangeons sur nos expériences, nos inspirations et nos projets.
